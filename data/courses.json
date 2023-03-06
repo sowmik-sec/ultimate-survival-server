@@ -5,6 +5,7 @@
     "details": "You will not need any knowledge of basic survival entering this course, and to complete the course you will need no kit, it is best to watch this course and attempt to replicate what you see after taking quizes so that you build a proper kit of items after being educated on what types of items to buy",
     "photo": "https://h9t4t3i4.stackpathcdn.com/sites/default/files/inline-images/cooking-over-fire_2.jpg",
     "price": 89.99,
+    "rating": 4.8,
     "instructor": {
       "name": "Bear Grylls",
       "image": "https://cdn.vox-cdn.com/thumbor/iuii03wluN0m9qrDlkezxvEbels=/0x0:1440x1666/1200x800/filters:focal(529x277:759x507)/cdn.vox-cdn.com/uploads/chorus_image/image/63258003/YouVsWild.0.png"
@@ -16,6 +17,7 @@
     "details": "You will not need any knowledge of basic survival entering this course, and to complete the course you will need no kit, it is best to watch this course and attempt to replicate what you see after taking quizes so that you build a proper kit of items after being educated on what types of items to buy",
     "photo": "http://www.laurabooz.com/wp-content/uploads/2010/01/survival-425.jpg",
     "price": 84.99,
+    "rating": 4.7,
     "instructor": {
       "name": "Mykel Hawke",
       "image": "https://m.media-amazon.com/images/M/MV5BNDBhYjRmN2QtYjhhYi00MTRmLWE0MzctZWJiNTE5YzE4OTIzXkEyXkFqcGdeQXVyNjgwODM4ODk@._V1_.jpg"
@@ -27,6 +29,7 @@
     "details": "Learn the survival and camping skills required to have the most beautiful backpacking adventures in the wilderness.",
     "photo": "https://www.adventurenation.com/blog/wp-content/uploads/2020/04/20190330_162615-750x530.png",
     "price": 79.99,
+    "rating": 4.7,
     "instructor": {
       "name": "Joe Teti",
       "image": "https://pbs.twimg.com/profile_images/1587864131104915456/VD3gtnMN_400x400.jpg"
@@ -38,6 +41,7 @@
     "details": "Learn essential survival skills: from fire building and shelters, to trapping/fishing and surviving an animal attack",
     "photo": "https://nature-mentor.com/wp-content/uploads/2017/11/start-fire-flint-steel.jpg",
     "price": 79.99,
+    "rating": 4.7,
     "instructor": {
       "name": "Cody Lundin",
       "image": "https://pbs.twimg.com/profile_images/803389178624884736/htoj4Sl5_400x400.jpg"
@@ -49,6 +53,7 @@
     "details": "You will not need any knowledge of basic survival entering this course, and to complete the course you will need no kit, it is best to watch this course and attempt to replicate what you see after taking quizes so that you build a proper kit of items after being educated on what types of items to buy",
     "photo": "https://images.squarespace-cdn.com/content/v1/57f29ab315d5db088499f126/1502401164645-3UMH4W9FU31R8GQ7H78F/Adult+Wilderness.jpg?format=2500w",
     "price": 49.99,
+    "rating": 4.5,
     "instructor": {
       "name": "Jeff Zausch",
       "image": "https://www.idahostatesman.com/latest-news/j1rhcr/picture250906514/alternates/FREE_1140/Jeff%20Zausch"
@@ -60,6 +65,7 @@
     "photo": "http://www.ravensnatureschool.org/images/inline/swss5-shelter2.jpg",
     "details": "This course is the first in a series of course packages produced by Rich Hungerford, Senior Survival & Tracking Instructor at The Bush Lore Survival School. This course is focused upon the practical application of ancient human ancestor knowledge in low or no technology situations to meet essential life support requirements. The instructor wishes to make the clear distinction between survival skills that lean on ancestral knowledge and primitive living skills. Being capable of manufacturing cutting tools, shelter and weapons without the aid of modern steel or iron tools adds another level of survival resilience to the experienced survivalist and brings new understanding to the beginner survival student. Drawing on his real life experience as an Australian Special Forces Combat Survival Instructor, Rich Hungerford shows you what works, why it works and why you should focus on practical skills if you are training for survival.",
     "price": 49.49,
+    "rating": 4.5,
     "instructor": {
       "name": "Les Stroud",
       "image": "https://i.cbc.ca/1.3964174.1486078447!/fileImage/httpImage/les-stroud.jpg"
