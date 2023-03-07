@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Map & Compass",
+    "price": 69,
+    "photo": "https://previews.123rf.com/images/nexusplexus/nexusplexus1804/nexusplexus180401176/98696496-concept-of-travel-and-discovery-with-old-map-and-compass-on-it.jpg"
+  },
+  {
+    "id": 2,
+    "name": "First-Aid Kit",
+    "price": 449,
+    "photo": "https://www.mfasco.com/4890z.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Signal Mirror",
+    "price": 9.99,
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsfvgX2axu39KeKeMoVl9IWpMc8WOtvAEuFQ&usqp=CAU"
+  },
+  {
+    "id": 4,
+    "name": "Fire Starter",
+    "price": 14.9,
+    "photo": "https://cdn.shopify.com/s/files/1/1221/6160/products/BFE564AF-E8BA-4CB1-956A-9BAA8B345FE7_1_105_c.jpg?v=1643312671"
+  },
+  {
+    "id": 5,
+    "name": "Water Purification System",
+    "price": 298.98,
+    "photo": "https://theprepared.com/wp-content/uploads/2018/06/Survival-Water-Filters-for-Preppers-Hero.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Knife",
+    "price": 99.9,
+    "photo": "https://m.media-amazon.com/images/I/51hihGoPiCL._SL500_.jpg"
+  }
+]
