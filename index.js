@@ -6,6 +6,7 @@ const port = process.env.PORT || 5000;
 app.use(cors());
 
 const courses = require("./data/courses.json");
+const kits = require("./data/kit.json");
 
 app.get("/", (req, res) => {
   res.send("ultimate survival courses are here");
@@ -19,6 +20,14 @@ app.get("/courses/:id", (req, res) => {
   const id = parseInt(req.params.id);
   const course = courses.find((course) => course.id === id);
   res.send(course);
+});
+app.get("/kits", (req, res) => {
+  res.send(kits);
+});
+app.get("/kits/:id", (req, res) => {
+  const id = parseInt(req.params.id);
+  const kit = kits.find((kit) => kit.id === id);
+  res.send(kit);
 });
 
 app.listen(port, () => {
